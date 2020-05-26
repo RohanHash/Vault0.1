@@ -33,7 +33,7 @@
 
 ## Got any Issue or Change Request :- 
 
-Log it into Issue Tracker and please don't mail me. I am going to stop to replying to mails and whatsapp messages from June 2017.
+
 
 ## Screen shots
 
